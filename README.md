@@ -8,7 +8,7 @@
 <body>
 
 <!-- Banner Image -->
-<img src="https://via.placeholder.com/1200x300" alt="Banner Image" style="width:100%; height:auto;">
+<img src="Chill Mario 2023 ver_, Pixel Jeff.gif" alt="Banner Image" style="width:100%; height:auto;">
 
 <h1 align="center">Hi 👋, I'm Gurchetan</h1>
 <h3 align="center">I am a 1st semester BTech Computer Science student with a passion for coding and technology. I have a strong interest in software development and enjoy working on various projects to enhance my skills.</h3>
