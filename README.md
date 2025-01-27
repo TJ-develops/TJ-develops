@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gurchetan</h1>
-<h3 align="center">I am a 1st semester BTech Computer Science student with a passion for coding and technology.</h3>
+<h3 align="center">I am a BTech Computer Science student with a passion for coding and technology.</h3>
 
 - 📫 How to reach me **gurchetan9966@gmail.com**
 
